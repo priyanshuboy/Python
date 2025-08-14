@@ -7,4 +7,4 @@ if age > 18:
 elif age == 18:
     print("you are :" , age)
 else :
- print("you is less than :" , age )
+ print("your age is less than 18 :" , age )
