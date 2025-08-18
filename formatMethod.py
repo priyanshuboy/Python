@@ -2,3 +2,4 @@
 
 
 print("the {} jumped over the {}".format("python","programming"))
+print("the {:20} .name is john".format("programming"))
